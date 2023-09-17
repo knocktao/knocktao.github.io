@@ -7,15 +7,18 @@ categories: INFORMS
 tags:	conference
 ---
 
-授权转发:  
+#### 授权转发:  
+
 CUHK的Renyu (Philip) Zhang 和Temple 的Guangwen Kong老师组织了在线INFORMS Service Science Doctoral Consortium （10月5日美东时间10:00am），和大佬们聊一聊OM职业规划:
+
+*链接*
 
 **https://docs.google.com/forms/d/e/1FAIpQLSc_lGe9avEL8mDg6l1bNb8N4IVzmqzE_Bo3NE-5a_Nw5OdZ-A/viewform**
 
 
 
 
-### Images
+
 
 
 <a href="//knocktao.github.io/assets/posts_img/2023-09-17-informs-poster.png" data-lightbox="falcon9-large" data-title="Check out the Falcon 9 from SpaceX">

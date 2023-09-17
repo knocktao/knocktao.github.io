@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Typography
-permalink: /typography/
+title: "招生"
+permalink: /information/
 main_nav: true
 ---
 

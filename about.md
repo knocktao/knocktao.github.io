@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: 会议资讯
 permalink: /about/
 main_nav: true
 ---

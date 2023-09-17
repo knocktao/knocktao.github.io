@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Posts"
+title: "学术分享"
 permalink: /posts/
 main_nav: true
 ---

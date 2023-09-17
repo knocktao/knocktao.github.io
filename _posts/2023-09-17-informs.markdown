@@ -18,6 +18,11 @@ CUHK的Renyu (Philip) Zhang 和Temple 的Guangwen Kong老师组织了在线INFOR
 ### Images
 
 
+<a href="//knocktao.github.io/assets/posts_img/2023-09-17-informs-poster.png" data-lightbox="falcon9-large" data-title="Check out the Falcon 9 from SpaceX">
+  <img src="//knocktao.github.io/assets/posts_img/2023-09-17-informs-google-sheet.png" title="Check out the Falcon 9 from SpaceX">
+</a>
+
+
 <a href="//knocktao.github.io/assets/posts_img/informs.png" data-lightbox="falcon9-large" data-title="Check out the Falcon 9 from SpaceX">
   <img src="//knocktao.github.io/assets/posts_img/informs.png" title="Check out the Falcon 9 from SpaceX">
 </a>

@@ -9,7 +9,7 @@ tags:	conference
 
 #### 授权转发:  
 
-CUHK的Renyu (Philip) Zhang 和Temple 的Guangwen Kong老师组织了在线INFORMS Service Science Doctoral Consortium （10月5日美东时间10:00am），和大佬们聊一聊OM职业规划:
+CUHK的Renyu (Philip) Zhang 和Temple 的Guangwen Kong老师组织了在线INFORMS Service Science Doctoral Consortium **10月5日美东时间10:00am**, 和大佬们聊一聊OM职业规划:
 
 *链接*
 
@@ -22,7 +22,7 @@ CUHK的Renyu (Philip) Zhang 和Temple 的Guangwen Kong老师组织了在线INFOR
 
 
 <a href="//knocktao.github.io/assets/posts_img/2023-09-17-informs-poster.png" data-lightbox="falcon9-large" data-title="Check out the Falcon 9 from SpaceX">
-  <img src="//knocktao.github.io/assets/posts_img/2023-09-17-informs-google-poster.png" title="Check out the Falcon 9 from SpaceX">
+  <img src="//knocktao.github.io/assets/posts_img/2023-09-17-informs-poster.png" title="Check out the Falcon 9 from SpaceX">
 </a>
 
 

@@ -5,7 +5,6 @@ date:   2023-09-17 08:43:59
 author: Knock Tao
 categories: INFORMS
 tags:	conference
-cover:  "/assets/posts/informs.png"
 ---
 
 授权转发:  
@@ -18,13 +17,11 @@ https://docs.google.com/forms/d/e/1FAIpQLSc_lGe9avEL8mDg6l1bNb8N4IVzmqzE_Bo3NE-5
 
 ### Images
 
-Lightbox has been enabled for images. To create the link that'll launch the lightbox, add <code>data-lightbox</code> and <code>data-title</code> attributes to an <code>&lt;a&gt;</code> tag around your <code>&lt;img&gt;</code> tag. The result is:
 
 <a href="//knocktao.github.io/assets/posts_img/informs.png" data-lightbox="falcon9-large" data-title="Check out the Falcon 9 from SpaceX">
   <img src="//knocktao.github.io/assets/posts_img/informs.png" title="Check out the Falcon 9 from SpaceX">
 </a>
 
-For more information, check out the [Lightbox][lightbox] website.
 
 <script>
 window.tooltips = window.tooltips || []

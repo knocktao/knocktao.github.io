@@ -1,5 +1,8 @@
 # External plugins
 # See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
+
+google_analytics: G-TPTM85MYQF
+
 plugins:
   - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
@@ -9,7 +12,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: 问道Research
+title: 问道
 subtitle: "Knock Tao - 网站正在紧锣密鼓建设中，敬请期待！- 详情请咨询 knocktao@gmail.com "
 email: knocktao@gmail.com
 name: Knock Tao

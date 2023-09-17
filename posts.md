@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "学术分享"
+title: 会议资讯
 permalink: /posts/
 main_nav: true
 ---

@@ -203,7 +203,7 @@ You can add page-specific javascript files by adding them to the top-level `/js`
 layout: post
 title:  "Dummy Post"
 date:   2015-04-18 08:43:59
-author: Ben Centra
+author: Knock Tao
 categories: Dummy
 custom_js:
 - Popmotion
@@ -227,7 +227,7 @@ Please follow these steps:
 1. Fork/clone this repository.
 2. Develop (and test!) your changes.
 3. Open a pull request on GitHub. A description and/or screenshot of changes would be appreciated!
-4. I ([Ben Centra](https://github.com/bencentra)) will review and merge the pull request.
+4. I ([Knock Tao](https://github.com/bencentra)) will review and merge the pull request.
 
 ## License
 
